@@ -1,0 +1,24 @@
+                                                      Notepad(Abstract)
+
+Team- BINARY WARRIORS
+
+Members:- Abhishek Kr. Singh(CSE), Surbhit Awasthi(Chemical)
+
+                                      (B. Tech, First Year)
+
+                      (Disclaimer:-This abstract has been typed on our own notepad)
+
+-Scanner class used for reading text from a .txt file
+
+-PrintStream used to save content to a file
+
+-jFileChooser component used for getting saving and opening files
+
+-to change the font size and type setFont method(function) is used(taken from the generated code)
+
+-Wordwrap feature implemented by 'setWrapStyleWord(true);'
+
+-When Zoomed-in, size of font increases by  points and decreases by the same when zoomed out
+
+-various keyboard shortcuts have been added for save, new, open etc..
+
